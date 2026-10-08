@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33530.505
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Subbotina_27IS", "Subbotina_27IS\Subbotina_27IS.csproj", "{052136C2-B318-45AB-A634-0982DE34A189}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{052136C2-B318-45AB-A634-0982DE34A189}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{052136C2-B318-45AB-A634-0982DE34A189}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{052136C2-B318-45AB-A634-0982DE34A189}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{052136C2-B318-45AB-A634-0982DE34A189}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DFA6FD62-8C51-4346-9C53-0C46FF36AAC0}
+	EndGlobalSection
+EndGlobal
